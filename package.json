@@ -22,10 +22,10 @@
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
-    "next": "^8.0.3",
+    "next": "^13.1.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "webpack": "^4.36.1"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
     "gh-pages": "^2.0.1"
